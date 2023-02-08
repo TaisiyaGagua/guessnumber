@@ -1,0 +1,74 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+body {
+    background-color: rgb(205, 175, 191);
+}
+
+.card {
+    cursor: default;
+    margin-right: 6px;
+    transition: 2s;
+}
+
+.card-header {
+    background-color: rgba(200, 79, 180, 0.854);
+}
+
+.card-footer {
+    background-color: rgba(200, 79, 180, 0.854);
+}
+
+.card-body {
+    background-color: rgba(178, 126, 188, 0.426);
+}
+
+.form-group {
+    margin-inline: auto;
+    padding: 5px;
+    width: auto;
+}
+
+label {
+    padding: 0px 10px 0px 0px;
+}
+
+#btnStart {
+    text-decoration: none;
+    background-color: rgb(173, 110, 255);
+}
+
+#btnGo {
+    text-decoration: none;
+    background-color: rgb(173, 110, 255);
+}
+
+#btnPlay{
+    text-decoration: none;
+    background-color: rgb(173, 110, 255);
+}
+
+#btnRetry {
+    text-decoration: none;
+    color: rgba(122, 27, 148, 0.757);
+}
+
+#btnLess{
+    background-color: rgb(199, 139, 255);
+}
+
+#btnOver{
+    background-color: rgb(199, 139, 255);
+}
+
+#btnEqual {
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: rgb(79, 23, 142);
+}
+
+.hidden {
+    display: none;
+}
