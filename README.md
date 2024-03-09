@@ -1,17 +1,18 @@
 # guessnumber
 
 ___
-Рабзработан в качестве практического задания 
+Developed as a practical assignment.
 
-Содержит в себе игру, угадывающую числа. 
+Contains a game that guesses numbers.
 
-Используется алгоритм бинансового поиска.
+Uses the binary search algorithm.
+
+
 ___
-## Исользуемые технологии:
+## Used Technologies:
 1. HTML
 2. CSS
 3. JavaScript
 ---
-## Как открыть/запустить
-Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
-
+## КHow to Open/Run
+Navigate to the website folder in the file manager, double-click on the file "index.html."
